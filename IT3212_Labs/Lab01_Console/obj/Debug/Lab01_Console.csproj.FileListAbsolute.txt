@@ -1,0 +1,7 @@
+D:\c#\IT3212_Labs\Lab01_Console\bin\Debug\Lab01_Console.exe.config
+D:\c#\IT3212_Labs\Lab01_Console\bin\Debug\Lab01_Console.exe
+D:\c#\IT3212_Labs\Lab01_Console\bin\Debug\Lab01_Console.pdb
+D:\c#\IT3212_Labs\Lab01_Console\obj\Debug\Lab01_Console.csproj.AssemblyReference.cache
+D:\c#\IT3212_Labs\Lab01_Console\obj\Debug\Lab01_Console.csproj.CoreCompileInputs.cache
+D:\c#\IT3212_Labs\Lab01_Console\obj\Debug\Lab01_Console.exe
+D:\c#\IT3212_Labs\Lab01_Console\obj\Debug\Lab01_Console.pdb
